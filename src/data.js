@@ -11,7 +11,7 @@ export const projects = [
       { name: "Other", percent: 0.4 }
     ],
     tags: ["html", "css"],
-    image: "/VPAA.jpg",
+    image: "/assets/VPAA.jpg",
     github: "https://github.com/robles-123/wsfinal"
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
       { name: "JavaScript", percent: 41.9 }
     ],
     tags: ["design"],
-    image: "/Vista.png",
+    image: "/assets/Vista.png",
     github: "https://github.com/robles-123/Vista-Project"
   },
   {
@@ -37,7 +37,7 @@ export const projects = [
       { name: "Other", percent: 0.7 }
     ],
     tags: ["branding", "ui"],
-    image: "/minidonuts.jpg",
+    image: "/assets/Minidonuts.jpg",
     github: "https://github.com/robles-123/finalws"
   }
 ];
@@ -48,9 +48,9 @@ export const trips = [
     title: "UP Business Incubator for IT",
     desc: "The UP Cebu Business incubator for information technology is a technology business incubation center established by the universitty of the philippines Cebu in partnership with the department of science and technology(DOST)",
     images: [
-      "/Day.1.jpg",
-      "/Day1..jpg",
-      "/Day1.jpg"
+      "/assets/Day.1.jpg",
+      "/assets/Day1..jpg",
+      "/assets/Day1.jpg"
     ]
   },
   {
@@ -58,9 +58,9 @@ export const trips = [
     title: "DYNATA Philippines INC",
     desc: "The dynata platform, an all in one solution for isnight, activation and measurement, leverages our robust data, innovation technology and more than 40 years experience as a pioneer in consumer and B2B insights.",
     images: [
-      "/Day.2.jpg",
-      "/Day2..jpg",
-      "/Day2.jpg"
+      "/assets/Day.2.jpg",
+      "/assets/Day2..jpg",
+      "/assets/Day2.jpg"
     ]
   },
   {
@@ -68,9 +68,9 @@ export const trips = [
     title: "Rivan IT CEBU",
     desc: "Rivancyber empowers IT professionals, fosters innovation, and uncovers exceptional talent across the evolving tech landscape. through skill development, growth opportuinitties, and a dynamic community, we hdrive progress and shape a transformative future for it",
     images: [
-      "/rivan.jpg",
-      "/rivan1.jpg",
-      "/rivan1..jpg"
+      "/assets/Rivan.jpg",
+      "/assets/Rivan1.jpg",
+      "/assets/rivan1..jpg"
     ]
   },
   {
@@ -78,9 +78,9 @@ export const trips = [
     title: "MATA technologies, INC",
     desc: "Mata technolgoies inc. is a homegrown provider of virtual tours for real sestate in the philippines. it is also the virtual reality map provider of tourist destinations in the country. deriving itsd name from the filipino word mata which means eyes, mata tech aims to give you a 360 preview",
     images: [
-      "/mata1.jpg",
-      "/mata2.jpg",
-      "/mata3.jpg"
+      "/assets/mata1.jpg",
+      "/assets/mata2.jpg",
+      "/assets/mata3.jpg"
     ]
   },
   {
@@ -88,9 +88,9 @@ export const trips = [
     title: "TARSIER 117",
     desc: "T.A.R.S.I.E.R 117 which stand for tourist assistance and rescue section, immediate emergency responders, is an emergency response and disaster management unit established by the provincial government of Bohol.",
     images: [
-      "/tars1.jpg",
-      "/tras2.jpg",
-      "/tars3.jpg"
+      "/assets/tars1.jpg",
+      "/assets/tras2.jpg",
+      "/assets/tars3.jpg"
     ]
   }
 ];
@@ -101,13 +101,13 @@ export const certifications = [
     title: "Information Management",
     issuer: "CodeChum",
     date: "May 16, 2025",
-    image: "/cer1.jpg"
+    image: "/assets/cer1.jpg"
   },
   {
     id: 2,
     title: "Certificate of Completion",
     issuer: "World of Adventures",
     date: "November 22, 2025",
-    image: "/cert.jpg"
+    image: "/assets/cert.jpg"
   }
 ];
